@@ -1,0 +1,18 @@
+.my-customize-slider img{
+    height: 30px;
+}
+.row featurette{
+    background-color:rgba(0, 0, 0, 0.76)
+}
+.container img{
+    width: 450px;
+    height: 500px;
+   
+}
+/* .container{
+    background-color: rgba(255, 192, 203, 0.87);
+} */
+
+.link-remove{
+    text-decoration: none;
+}
